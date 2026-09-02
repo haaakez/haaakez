@@ -6,8 +6,8 @@ also currently learning c++
 
 ## tech stack
 languges: python, C#, web(html,css), nix, basically any markup language  
-tools: git(obviously), linux, bash, nix, django, mysql, any vps service  
-(i also do ui/ux pretty decently)
+tools: git(obviously), linux, bash, nix, django, mysql, any vps service, any pkg manager  
+i also do ui/ux pretty decently
 
 <!--
 **haaakez/haaakez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
