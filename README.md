@@ -1,7 +1,7 @@
 ## about me
-  high school student  
-  im currently working on a fractal audio visualizer [link](https://github.com/haaakez/fractal-audio-viz)  
-  also currently learning c++
+* high school student  
+* im currently working on a fractal audio visualizer [link](https://github.com/haaakez/fractal-audio-viz)  
+* also currently learning c++
 
 ## tech stack
 * languges: python, C#, web(html,css), nix, basically any markup language  
