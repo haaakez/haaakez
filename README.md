@@ -1,6 +1,5 @@
 ## about me
 high school student  
-i love FOSS  
 im currently working on a fractal audio visualizer [(link)](https://github.com/haaakez/fractal-audio-viz)  
 also currently learning c++
 
