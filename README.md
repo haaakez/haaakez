@@ -4,7 +4,7 @@ im currently working on a fractal audio visualizer [(link)](https://github.com/h
 also currently learning c++
 
 ## tech stack
-languges: python, C#, web(html,css), nix, basically any markup language  
+languges: python, C#, web(html,css), nix, a bit of C, basically any markup language  
 tools: git(obviously), linux, bash, nix, django, mysql, any vps service, any pkg manager  
 i also do ui/ux pretty decently
 
