@@ -3,8 +3,8 @@ high school student
 im currently working on a fractal audio visualizer [(link)](https://github.com/haaakez/fractal-audio-viz)  
 also currently learning c++
 
-## tech stack
-languges: python, C#, web(html,css), nix, a bit of C, basically any markup language  
+## the so called tech stack
+languages: python, C#, web(html,css), nix, a bit of C, basically any markup language  
 tools: git(obviously), linux, bash, nix, django, mysql, any vps service, any pkg manager  
 i also do ui/ux pretty decently
 
