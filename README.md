@@ -1,11 +1,9 @@
 ## about me
-high school student  
-im currently working on a fractal audio visualizer [(link)](https://github.com/haaakez/fractal-audio-viz)  
-also currently learning c++
+<img width="640" height="256" alt="image" src="https://github.com/user-attachments/assets/be33f297-ce4a-4bc6-98a0-1ae73eb6be0c" />
 
 ## the so called tech stack
-languages: python, C#, web(html,css), nix, a bit of C, basically any markup language  
-tools: git(obviously), linux, bash, nix, django, mysql, any vps service, any pkg manager  
+languages: python, C#, web(html,css), nix, a bit of C, learning C++ basically any markup language  
+tools: git(obviously), linux, bash, nix, mysql, any vps service, any pkg manager  
 i also do ui/ux pretty decently
 
 <!--
