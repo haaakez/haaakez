@@ -1,5 +1,6 @@
 ## about me
-<img width="640" height="256" alt="image" src="https://github.com/user-attachments/assets/be33f297-ce4a-4bc6-98a0-1ae73eb6be0c" />
+<img width="803" height="725" alt="image" src="https://github.com/user-attachments/assets/b0723109-ccb7-4a7d-93ba-c60c5c944298" />
+
 
 ## the so called tech stack
 languages: python, C#, web(html,css), nix, a bit of C, learning C++ basically any markup language  
