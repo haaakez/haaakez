@@ -1,4 +1,4 @@
-<img width="342" height="120" alt="image" src="https://github.com/user-attachments/assets/35eb1b26-da90-4b98-ad10-49eacef39b27" />
+```markdown
 
 <!--
 ## the so called tech stack
