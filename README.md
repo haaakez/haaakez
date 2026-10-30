@@ -1,13 +1,12 @@
-## about me
-<img width="803" height="725" alt="image" src="https://github.com/user-attachments/assets/b0723109-ccb7-4a7d-93ba-c60c5c944298" />
+<img width="342" height="120" alt="image" src="https://github.com/user-attachments/assets/35eb1b26-da90-4b98-ad10-49eacef39b27" />
 
-
+<!--
 ## the so called tech stack
 languages: python, C#, web(html,css), nix, a bit of C, learning C++ basically any markup language  
 tools: git(obviously), linux, bash, nix, mysql, any vps service, any pkg manager  
 i also do ui/ux pretty decently
 
-<!--
+
 **haaakez/haaakez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
